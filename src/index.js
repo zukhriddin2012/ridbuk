@@ -22,7 +22,7 @@ require('./models/phones')
 
 const phones = mongoose.model('phones')
 
-database.office.forEach(f => new phones(f).save().catch(e => console.log))
+//database.office.forEach(f => new phones(f).save().catch(e => console.log))
 
 //==============================================
 
