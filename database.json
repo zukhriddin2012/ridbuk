@@ -1,0 +1,33 @@
+{
+    
+    "phones": [
+        {
+            "model": "J2 2017",
+            "price": 765000,
+            "battery": "3000",
+            "camera": "5MP",
+            "memory": "32GB",
+            "pid": "u100",
+            "company": "Samsung",
+            "comments": "Kattaroq displey..."
+        },
+        {
+            "model": "Redmi 5 Note",
+            "price": 1291140,
+            "battery": "3000",
+            "camera": "12MP",
+            "pid": "u101",
+            "company": "Mi",
+            "comments": "Arzon telefon!"
+        },
+        {
+            "model": "iPhone 5SE",
+            "price": 2364300,
+            "battery": "1678",
+            "camera": "12MP",
+            "pid": "u102",
+            "company": "Apple",
+            "comments": "Kichiklik tomon katta qadam!"
+        }
+    ]
+}
